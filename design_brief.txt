@@ -1,0 +1,16 @@
+I would like to use black text only; however, the background color will be Green, Orange, and Red, because these colors will make my website look more fresh and brighter. these colors will catch my readers' attention. I'll use black text for the Header, for body, and for link-text.
+
+In the design_brief.txt file I created in Step A, I'll write:
+1. ABOUT ME
+	--> my name is Tan Lai, here is my city and state, my profile images. I am able to adapt to change, flexible; and to work independently as needed; and a fast learner. I am also a detail-oriented, action-oriented, and highly organized; and time management person. I confidently coordinated and worked well in team-oriented environments
+	--> a list of current skills: Business Apps and Enterprise Networks, Information Systems for Management, Web Application Open Source and OS, Mobile Apps, Information Security Management, IT Project Management and Enterprise Data, C#, Java, HTML, CSS, JavaScript, Swift, Databases management with OnBase and writing SQL statements, Information Security, Ethical Hacking, and Networking (UDP, SSL, TCP), Kali Linux, Troubleshoot Windows and Mac, Proficient with MS Office, VMWare and VirtualBox, OWASP Top10, Metasploit, Burp Suite, OWASP ZAP, Nessus, Social Engineering Toolkits, Malware Threats, Vulnerability Scanning and Analysis, Network Sniffing, Penetration Testing, SQLInjection, Social Engineering, Session Hijacking, Denial-of-Service, Password Cracking, and Cryptography, Team player, Multitasking and Customer Service Driven, Fluent in Vietnamese and basic Cantonese, Experienced MEAN stack, and prepared thesupporting cast: Bootstrap, Git, and Heroku, REST API.
+
+2. CONTACT ME 
+	--> I will provide my phone number, my email address, my LinkedIn. contact me if you have any concerns about me.
+
+3. MY PROJECTS
+	--> generally, describe all of my projects with a highlight image of that project.  I can put more details describing why I chose to do the project.
+
+write a link to the portfolios with your notes below each one. Your notes should say things that you liked and disliked for each portfolio. Make sure to identify the “header”, “main”, and “footer” sections of these portfolios:
+	1. I liked its logo; however, I disliked the front color, the red color doesn't seems really catch people's attention. The header of this page is from the top where it has logo and social media logos. the main is from the big red image down to the pink cartoon character with three eyes. Finally, the footer is from the word "© Copyright 2019 - Studio Schurk" 
+
