@@ -51,8 +51,7 @@ main {
     border: 1px black dotted;
     margin: 0;
     font-family: "rubik";
-    color: green;
-    display: block;
+    color: black display: block;
     margin-left: auto;
     margin-right: auto;
     background-color: floralwhite;
@@ -75,12 +74,19 @@ main h1 {
     text-align: center;
 }
 
+main h2 {
+    font-size: 25px;
+    font-family: cursive;
+    color: black;
+    text-align: center;
+}
+
 main p {
     text-align: center;
 }
 
 main ul {
-    border: 1px black dotted;
+    border: 1px black dashed;
 }
 
 main img {
@@ -90,6 +96,10 @@ main img {
 
 #main-css {
     font-size: 50px;
+}
+ 
+#arrow {
+    background-color: clear;
 }
 
 footer {
@@ -105,7 +115,7 @@ footer {
 }
 
 footer p {
-    font-size: 35px;
+    font-size: 20px;
     font-family: content: '\e003';
     color: black;
 }
@@ -133,6 +143,21 @@ footer p {
 
 #resume {
     color: green;
+}
+
+#project2 {
+    border: 1px double;
+    font-size: 20px;
+}
+
+#project3 {
+    border: 1px double;
+    font-size: 20px;
+}
+
+#project4 {
+    border: 1px double;
+    font-size: 20px;
 }
 
 a:link {
