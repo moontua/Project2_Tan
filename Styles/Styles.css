@@ -97,6 +97,12 @@ main img {
 #main-css {
     font-size: 50px;
 }
+
+#logo2 { 
+    width: 150px;
+    height: 100px;
+    border-radius: 10%;
+}
  
 #arrow {
     background-color: clear;
@@ -123,6 +129,7 @@ footer p {
 #logo img {
     border-radius: 25%;
 }
+
 
 #hello-image #portrait {
     border-radius: 25px;
